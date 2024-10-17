@@ -5,7 +5,7 @@
 - **Functionality**: Manages the user interface, course pages, and user interactions.
 
 ## Authentication (NextAuth.js)
-- **Integration**: Replaces Clerk with NextAuth.js for streamlined authentication.
+- **Integration**: Instead Clerk with NextAuth.js for streamlined authentication.
 - **Features**: Free to use and supports various OAuth providers such as Google, GitHub, etc.
 - **User Access**: Users can easily sign in and be authenticated through NextAuth.
 
